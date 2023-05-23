@@ -509,15 +509,15 @@
   flex-direction: column;
   justify-content: center;
   color: #fff;
-  background-image: url(./img/pic.jpg)
+  background-image: url(./pic.jpg)
 }
 
 .services__card:nth-child(2) {
-  background-image: url(./img/pic.jpg)
+  background-image: url(./pic.jpg)
 }
 
 .services__card:nth-child(3) {
-  background-image: url(./img/pic.jpg)
+  background-image: url(./pic.jpg)
   
 }
 
